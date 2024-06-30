@@ -1,0 +1,119 @@
+Tools You’ll Need
+
+- Phillips #2 screwdriver
+- Anti-static wrist strap (better safe then sorry)
+- Thermal paste (most heat sinks come with thermal paste already applied but it doesn't hurt to have some extra laying around just in case)
+
+Components
+- Case
+- Motherboard
+- CPU (Central Processing Unit)
+- RAM (Random Access Memory)
+- Hard Drive (HDD) or SSD (Solid State Drive)
+- PSU (Power Supply Unit) + Cables
+- CPU Heat Sink (and thermal paste if not pre-applied)
+- CPU Fan (normally the cpu fan and heat sink is an all-in-one package but double check the model you choose)
+- Video Card (GPU)
+- Sound Card (if not integrated into the motherboard)
+- Dual Monitors
+- Keyboard
+- Mouse
+- Required Cables (SATA cables, power cables, etc.)
+- Speakers
+
+Okay the fun part, Step-by-Step Guide
+
+1. Set Up Your Workspace
+   - Find a big, flat surface to work on. The kitchen table works great unless your family is about to have dinner.
+   - Make sure it’s well-lit so you can see what you’re doing.
+   - If you have an anti-static wrist strap, put it on. If not, just touch an unpainted metal part of your case now and then to discharge any static electricity.
+
+2. Prepare the Case
+   - Open up the case by taking off the side panels. This usually involves unscrewing a few thumb screws at the back.
+   - Lay the case on its side with the open part facing up.
+   - Remove any packaging materials inside the case. Don't worry, it’s not junk mail.
+
+3. Install the Power Supply Unit (PSU)
+   - Slide the PSU into its slot in the case (usually at the bottom or top rear).
+   - Line it up with the screw holes and secure it with screws.
+   - Route the power cables (like the big 24-pin one and the smaller 8-pin one) through the case to where the motherboard and other components will go.
+
+4. Install the Motherboard
+   - First, pop the I/O shield (the rectangular metal piece that comes with the motherboard) into the back of the case.
+   - Look for the standoff screws in your case. These little guys keep the motherboard elevated off the case surface. If they’re not pre-installed, screw them into the appropriate holes.
+   - Carefully place the motherboard into the case, aligning it with the I/O shield and standoffs.
+   - Secure the motherboard with screws, but don’t over-tighten them. Tighten them just enough to hold the board securely—no need to show off your muscles here.
+
+5. Install the CPU
+   - Open the CPU socket on the motherboard by lifting the metal lever.
+   - Take your CPU out of its packaging, avoiding touching the pins or contacts.
+   - Align the CPU with the socket (look for a small triangle or notch to help you orient it correctly).
+   - Gently place the CPU into the socket—it should drop in without any force.
+   - Lower the metal lever to secure the CPU. Give yourself a little “nailed it” nod.
+
+6. Install the CPU Heat Sink and Fan
+   - If your heat sink doesn’t have thermal paste pre-applied, put a small pea-sized amount on the center of the CPU.
+   - Place the heat sink on top of the CPU, aligning it with the mounting brackets.
+   - Secure the heat sink to the motherboard with the provided hardware. Follow the instructions that came with it.
+   - Attach the CPU fan to the heat sink if it’s separate.
+   - Plug the CPU fan cable into the CPU fan header on the motherboard (usually labeled CPU_FAN).
+
+7. Install RAM
+   - Open the RAM slots by pushing back the clips at each end.
+   - Line up the RAM stick with the slot (the notch in the stick should match the slot).
+   - Press down firmly until the clips snap back into place.
+   - Repeat for any additional RAM sticks, using the slots recommended in your motherboard’s manual.
+
+8. Install Storage (HDD/SSD)
+   - Slide your hard drive or SSD into the drive bay. Your case might have different spots for 2.5-inch and 3.5-inch drives.
+   - Secure the drive with screws or use your case's tool-less mounting system.
+   - Connect one end of the SATA data cable to the drive and the other end to a SATA port on the motherboard.
+   - Connect a SATA power cable from the PSU to the drive.
+
+9. Install the Video Card (GPU)
+   - Find the long PCIe slot on your motherboard.
+   - Remove the slot cover(s) from the back of the case where your GPU will go.
+   - Align the GPU with the slot and gently push it in until it clicks.
+   - Secure the GPU to the case with screws.
+   - Connect any necessary power cables from the PSU to the GPU.
+
+10. Install the Sound Card (if you have one)
+    - Find an available PCI or PCIe slot on your motherboard.
+    - Remove the slot cover from the back of the case where your sound card will go.
+    - Align the sound card with the slot and gently push it in until it clicks.
+    - Secure the sound card to the case with screws.
+
+11. Connect Case Cables
+    - Hook up the front panel connectors (power button, reset button, USB ports, audio jacks) to the motherboard. Your motherboard manual will have a diagram showing where these go.
+    - Connect any additional case fans to the appropriate fan headers on the motherboard.
+
+12. Connect Power Cables
+    - Plug the 24-pin ATX power connector from the PSU into the motherboard.
+    - Connect the 8-pin (or 4+4 pin) CPU power connector from the PSU to the motherboard.
+    - Connect power cables to the GPU, hard drive, and any other components that need power.
+
+13. Install Dual Monitors
+    - Connect each monitor to the GPU using the right cables (HDMI, DisplayPort, etc.).
+    - Plug the monitors into a power source and turn them on.
+    - Once your PC is running, you can adjust the settings in your operating system for a dual monitor setup.
+
+14. Connect Peripherals
+    - Plug the keyboard and mouse into USB ports on the motherboard or case.
+    - Connect speakers to the audio output on the motherboard or sound card.
+
+15. Final Check and Power On
+    - Double-check all your connections and make sure everything is securely fastened.
+    - Plug the power cable into the PSU and an electrical outlet.
+    - Flip the power switch on the PSU (if it has one).
+    - Press the power button on your case.
+
+16. Install Your Operating System
+    - Insert your OS installation media, Linux please! (USB drive or DVD).
+    - Follow the on-screen instructions to install the operating system.
+
+Troubleshooting Tips:
+- No Power? Double-check that the power cable is plugged in and the PSU switch is on. Ensure all power connections are secure.
+- No Display? Make sure the GPU and monitor connections are secure and set to the correct input source. Verify that the RAM is seated correctly.
+- Beep Codes? Listen for beeps from the motherboard speaker. Check your motherboard manual to interpret the beep codes for troubleshooting.
+
+If you are a visual learner like me, this guide will only help so much. I highly encourage looking at youtube videos to get a visual representation of the steps I laid out. And please research multiple sources. Happy building!
